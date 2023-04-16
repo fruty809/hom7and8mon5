@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">hom7and8mon5</string>
+    <string name="text">string</string>
+    <string name="text2">string</string>
+    <string name="get_started">string</string>
+    <string name="history">string</string>
+    <string name="you">string</string>
+    <string name="second_name">string</string>
+    <string name="me">string</string>
+    <string name="calculate2">string</string>
+    <string name="score">string</string>
+    <string name="try_again">string</string>
+    <string name="precentage">string</string>
+    <string name="first_name">string</string>
+    <string name="love_calculator">string</string>
+</resources>
